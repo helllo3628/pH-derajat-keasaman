@@ -1,4 +1,4 @@
-
+<!Doctype html>
 
 <meta charset="UTF-8">
 <meta name="title" content="Penggunaan tagline ul dan ol"> 
